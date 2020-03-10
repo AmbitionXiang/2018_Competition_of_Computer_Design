@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VirtualPiano">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/VirtualPiano.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
